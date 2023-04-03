@@ -6,12 +6,12 @@
 * [Contributors](#contributors)
 * [Contents](#contents)
 * [Data](#data)
-* [Folders](#folders)
+* [Notebooks](#folders)
 * [Dependencies](#dependencies)
 
 
 ## Contributors
-Anhvinh Doanvo, Xiaolu Qian, Divya Ramjee, Helen Piontkivska, Angel Desai, Maimuna Majumder
+Yuhe Ke, Rui Yang, Nan Liu
 
 <!-- Contents -->
 ## Contents
@@ -19,13 +19,12 @@ Given that thousands of publications on coronaviruses have been produced to date
 
 <!-- Data -->
 ## Data
-Publication abstracts were obtained from the COVID-19 Open Research Dataset CORD-19, 2020. We used this dataset for our analysis. For the current version, we used the data that was produced on May 28, 2020. <br />
+Publication abstracts were obtained from Web of Science. The serach result was on January 18, 2023. <br />
 
-## Folders
-* [analysis](analysis): jupyter notebooks with analytical workflows
-* [nlp](nlp): python class for streamlining nlp data processing
-
-The README.md file in this repository provides well-documented introduction to the directory structure and scripts. Within the 'analysis' folder, there are two jupyter notebooks for conducting PCA and LDA analysis, as well as creating key figures of the paper. The .py file in the NLP folder is what we used for processing the texts we used.
+<!-- Notebooks -->
+## Notebooks
+* [UMAP](analysis): jupyter notebooks with UMAP algorithm
+* [BERTopic](nlp): jupyter notebooks with BERTopic algorithm
 
 <!-- Dependencies -->
 ## Dependencies
