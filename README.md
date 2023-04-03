@@ -15,7 +15,7 @@ Yuhe Ke, Rui Yang, Nan Liu
 
 <!-- Contents -->
 ## Contents
-Given that thousands of publications on coronaviruses have been produced to date, necessitates the use of machine learning, such as principal components analysis (PCA) and topic modeling with latent dirichlet allocation (LDA) – is necessary to quickly identify key topics and knowledge gaps. Thus, we propose a generalizable machine learning framework that may be used to effectively automated identification of knowledge gaps for SARS-CoV-2 and other novel pathogens.<br />
+The volume of research literature on critical care has experienced exponential growth over the past two decades, rendering traditional bibliometric methods inadequate for analyzing such vast datasets. This necessitates the employment of machine learning (ML) and natural language processing (NLP) techniques to investigate research trends and uncover knowledge gaps. In this study, we utilized uniform manifold approximation and projection (UMAP) and the BERTopic algorithm to explore the differences and similarities between open-access database studies and traditional intensive care studies. Our objective is to identify existing knowledge gaps and explore ways in which they can complement each other.<br />
 
 <!-- Data -->
 ## Data
@@ -29,6 +29,9 @@ Publication abstracts were obtained from Web of Science. The serach result was o
 <!-- Dependencies -->
 ## Dependencies
 Key packages used in the model:<br />
-* sklearn <br />
-* Gensim <br />
+* bertopic <br />
+* gensim <br />
 * nltk <br />
+* sklearn <br />
+* umap <br />
+
