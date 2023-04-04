@@ -23,8 +23,8 @@ Publication abstracts were obtained from Web of Science. The serach result was o
 
 <!-- Notebooks -->
 ## Notebooks
-* [UMAP](analysis): jupyter notebooks with UMAP algorithm
-* [BERTopic](nlp): jupyter notebooks with BERTopic algorithm
+* [UMAP](analysis): jupyter notebook with UMAP algorithm
+* [BERTopic](nlp): jupyter notebook with BERTopic algorithm
 
 <!-- Dependencies -->
 ## Dependencies
