@@ -6,7 +6,7 @@
 * [Contributors](#contributors)
 * [Contents](#contents)
 * [Data](#data)
-* [Notebooks](#folders)
+* [Notebooks](#notebooks)
 * [Dependencies](#dependencies)
 
 
