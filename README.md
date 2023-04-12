@@ -23,7 +23,7 @@ Publication abstracts were obtained from Web of Science. The search result was o
 
 <!-- Notebooks -->
 ## Notebooks
-* [UMAP](UMAP.ipynp): jupyter notebook with UMAP algorithm
+* [UMAP](UMAP.ipynb): jupyter notebook with UMAP algorithm
 * [BERTopic]: jupyter notebook with BERTopic algorithm
 
 <!-- Dependencies -->
