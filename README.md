@@ -19,7 +19,7 @@ The volume of research literature on critical care has experienced exponential g
 
 <!-- Data -->
 ## Data
-Publication abstracts were obtained from Web of Science. The serach result was on January 18, 2023. <br />
+Publication abstracts were obtained from Web of Science. The search result was on January 18, 2023. <br />
 
 <!-- Notebooks -->
 ## Notebooks
